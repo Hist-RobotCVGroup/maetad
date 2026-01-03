@@ -2,7 +2,7 @@
 
 This repository contains the official implementation of the paper MAE-TAD: MAE-TAD: Towards Robust End-to-End Temporal Action Detection via Semantic Reconstruction.
 
-![MAE-TAD Model](assets/model.jpg)
+![MAE-TAD Model](./assets/model.jpg)
 
 Several comments are remained.
 
